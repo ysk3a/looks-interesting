@@ -1,4 +1,7 @@
 # looks-interesting
+- https://github.com/golden-layout/golden-layout
+- https://github.com/EmbeddedEnterprises/ng6-golden-layout
+- https://github.com/golden-layout/golden-layout-ng-app
 - ngneat/hotkeys
 - https://github.com/imartinez/privateGPT
 - https://github.com/zilliztech/GPTCache
